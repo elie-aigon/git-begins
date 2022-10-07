@@ -1,0 +1,5 @@
+commande pour cloner un repo: git clone < lien repo ssh our http disponible sur git>
+git add
+git commit
+git push
+
